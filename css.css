@@ -1,0 +1,19 @@
+p {
+  color: rgb(111, 5, 133);
+  font-size: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  }
+
+hr {
+  color: rgb(47, 5, 145);
+}
+
+button {
+  color: rgb(0, 41, 129);
+  background-color: gold;
+}
