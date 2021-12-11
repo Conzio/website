@@ -19,3 +19,5 @@
 2. CosmOS, An self coded Kernel for:
     - Operating-system's,
     - IoT devices and more.
+
+# This page is under construction!
