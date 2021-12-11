@@ -14,7 +14,8 @@
     - Libary's, 
     - shop's,
     - for your Home and more.
-    
+ 
+ 
 2. CosmOS, An self coded Kernel for:
     - Operating-system's,
     - IoT devices and more.
